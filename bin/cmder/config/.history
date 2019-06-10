@@ -1,0 +1,10 @@
+php -V
+php -V
+mysql
+clear
+cls
+mysql -u root -p
+mysql
+clear
+cls
+exit

@@ -1,0 +1,8 @@
+2019/06/09 22:35:52 [notice] 6156#9460: signal process started
+2019/06/09 22:36:23 [notice] 9616#10452: signal process started
+2019/06/09 22:37:40 [emerg] 3448#7736: CreateFile() "D:/app/Laragon/etc/nginx/php_upstream.conf" failed (3: The system cannot find the path specified) in D:\app\Laragon\bin\nginx\nginx-1.14.0/conf/nginx.conf:35
+2019/06/09 22:55:15 [notice] 1776#5288: signal process started
+2019/06/09 23:25:56 [notice] 10908#12136: signal process started
+2019/06/09 23:58:48 [notice] 8616#10308: signal process started
+2019/06/09 23:59:37 [notice] 7880#6412: signal process started
+2019/06/10 00:05:49 [notice] 8556#6360: signal process started
